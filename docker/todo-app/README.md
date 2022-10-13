@@ -16,7 +16,6 @@ Com ele, você pode se organizar de maneira simples, adicionando, marcando e/ou 
 
 Uma verdadeira *mão-na-roda* para acompanhar seu progresso!
 
-![Alt Text](./intro.gif)
 
 #### Requisitos
 
