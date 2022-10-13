@@ -1,4 +1,4 @@
-- [Trybe Todo-App 🖥️ 📝](#trybe-todo-app-️-)
+- [Todo-App 🖥️ 📝]
   - [Requisitos](#requisitos)
   - [Instalação](#instalação)
     - [Estrutura do aplicativo](#estrutura-do-aplicativo)
@@ -8,9 +8,9 @@
       - [Utilizando o aplicativo de testes](#utilizando-o-aplicativo-de-testes)
       - [Dicas sobre a conteinerização de aplicações NodeJS](#dicas-sobre-a-conteinerização-de-aplicações-nodejs)
       - [Aproveitando os arquivos `node_modules.tar.gz`](#aproveitando-os-arquivos-node_modulestargz)
-### Trybe Todo-App 🖥️ 📝
+### Todo-App 🖥️ 📝
 
-Olá! Esse é o aplicativo de tarefas **Trybe Todo-App**!
+Olá! Esse é o aplicativo de tarefas **Todo-App**!
 
 Com ele, você pode se organizar de maneira simples, adicionando, marcando e/ou removendo suas tarefas.
 
